@@ -36,7 +36,7 @@ A rede é organizada de forma que os nós sejam conectados a um hub central, que
 
 <div>
     <div>
-        <img src="../Relatorio/img/topologiaEstrela.png" />
+        <img src="Relatorio/img/topologiaEstrela.png" />
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Embora a estrutura física seja organizada em estrela, o comportamento lógico d
 
 <div>
     <div>
-        <img src="../Relatorio/img/parte1.png" />
+        <img src="Relatorio/img/parte1.png" />
     </div>
 </div>
 
@@ -118,7 +118,7 @@ Uma máscara de sub-rede é uma máscara de 32 bits que divide um endereço IP e
 
 <div>
     <div>
-        <img src="../Relatorio/img/configPC1.png" />
+        <img src="Relatorio/img/configPC1.png" />
     </div>
 </div>
 
@@ -130,7 +130,7 @@ Uma máscara de sub-rede é uma máscara de 32 bits que divide um endereço IP e
 
 <div>
     <div>
-        <img src="../Relatorio/img/parte2.png" />
+        <img src="Relatorio/img/parte2.png" />
     </div>
 </div>
 
@@ -142,7 +142,7 @@ Uma máscara de sub-rede é uma máscara de 32 bits que divide um endereço IP e
 
 <div>
     <div>
-        <img src="../Relatorio/img/configPC3.png" />
+        <img src="Relatorio/img/configPC3.png" />
     </div>
 </div>
 
@@ -157,7 +157,7 @@ Os resultados observados indicaram respostas bem-sucedidas para as requisições
 <p>Figura 6 - Conectividade PC0 -> PC1</p>
 <div>
     <div>
-        <img src="../Relatorio/img/PING1-2.png" />
+        <img src="Relatorio/img/PING1-2.png" />
     </div>
 </div>
 
@@ -166,7 +166,7 @@ Os resultados observados indicaram respostas bem-sucedidas para as requisições
 <p>Figura 7 - Conectividade PC1 -> PC2</p>
 <div>
     <div>
-        <img src="../Relatorio/img/PING2-3.png" />
+        <img src="Relatorio/img/PING2-3.png" />
     </div>
 </div>
 
@@ -180,7 +180,7 @@ Após a verificação da conectividade entre os dispositivos, foi realizada uma 
 <p> Figura 8 - Transmissão com Simple PDU - Parte 1</p>
 <div>
     <div>
-        <img src="../Relatorio/img//SimplePDU0-2.png"/>
+        <img src="Relatorio/img//SimplePDU0-2.png"/>
     </div>
 </div>
 
@@ -189,7 +189,7 @@ Após a verificação da conectividade entre os dispositivos, foi realizada uma 
 <p> Figura 9 - Transmissão com Simple PDU - Parte 2</p>
 <div>
     <div>
-        <img src="../Relatorio/img/1PDU2.png"/>
+        <img src="Relatorio/img/1PDU2.png"/>
     </div>
 </div>
 
@@ -198,7 +198,7 @@ Após a verificação da conectividade entre os dispositivos, foi realizada uma 
 <p> Figura 10 - Transmissão com Simple PDU - Parte 3</p>
 <div>
     <div>
-        <img src="../Relatorio/img/1PDU3.png"/>
+        <img src="Relatorio/img/1PDU3.png"/>
     </div>
 </div>
 
@@ -207,7 +207,7 @@ Após a verificação da conectividade entre os dispositivos, foi realizada uma 
 <p> Figura 11 - Transmissão com Simple PDU - Parte 4</p>
 <div>
     <div>
-        <img src="../Relatorio/img/1PDU5.png"/>
+        <img src="Relatorio/img/1PDU5.png"/>
     </div>
 </div>
 
@@ -240,7 +240,7 @@ Na segunda etapa do experimento, o hub foi substituído por um switch 2960, mant
 
 <div>
     <div>
-        <img src="../Relatorio/img/parte2.png" />
+        <img src="Relatorio/img/parte2.png" />
     </div>
 </div>
 
@@ -259,7 +259,7 @@ Após a estabilização das portas foi possível iniciar os testes de conectivid
 <p>Figura 13 — Conectividade PC0 -> PC1</p>
 <div>
     <div>
-        <img src="../Relatorio/img/2ping0-1.png" />
+        <img src="Relatorio/img/2ping0-1.png" />
     </div>
 </div>
 
@@ -271,7 +271,7 @@ Após a estabilização das portas foi possível iniciar os testes de conectivid
 <p>Figura 14 — Conectividade PC0 -> PC1</p>
 <div>
     <div>
-        <img src="../Relatorio/img/2ping1-2.png" />
+        <img src="Relatorio/img/2ping1-2.png" />
     </div>
 </div>
 
@@ -286,7 +286,7 @@ Diferentemente do cenário com hub, o switch analisa as informações contidas n
 <p> Figura 15 - Transmissão com Simple PDU - Parte 1</p>
 <div>
     <div>
-        <img src="../Relatorio/img/2PDU1.png" />
+        <img src="Relatorio/img/2PDU1.png" />
     </div>
 </div>
 
@@ -295,7 +295,7 @@ Diferentemente do cenário com hub, o switch analisa as informações contidas n
 <p> Figura 16 - Transmissão com Simple PDU - Parte 2</p>
 <div>
     <div>
-        <img src="../Relatorio/img/2PDU2.png" />
+        <img src="Relatorio/img/2PDU2.png" />
     </div>
 </div>
 
@@ -304,7 +304,7 @@ Diferentemente do cenário com hub, o switch analisa as informações contidas n
 <p> Figura 17 - Transmissão com Simple PDU - Parte 3</p>
 <div>
     <div>
-        <img src="../Relatorio/img/2PDU3.png" />
+        <img src="Relatorio/img/2PDU3.png" />
     </div>
 </div>
 
@@ -313,7 +313,7 @@ Diferentemente do cenário com hub, o switch analisa as informações contidas n
 <p> Figura 18 - Transmissão com Simple PDU - Parte 4</p>
 <div>
     <div>
-        <img src="../Relatorio/img/2PDU4.png" />
+        <img src="Relatorio/img/2PDU4.png" />
     </div>
 </div>
 
