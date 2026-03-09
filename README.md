@@ -345,3 +345,5 @@ O switch não elimina completamente o meio físico compartilhado, mas reduz sign
 Enquanto em uma rede com hub todos os dispositivos compartilham o mesmo domínio de colisão, em uma rede com switch cada porta representa um domínio de colisão individual. Dessa forma, transmissões realizadas entre dois dispositivos conectados a portas diferentes não interferem diretamente nas comunicações realizadas em outras portas.
 
 Assim, embora os dispositivos ainda estejam interligados fisicamente pelo mesmo equipamento, o switch organiza o tráfego de forma mais eficiente, evitando que todas as transmissões sejam propagadas indiscriminadamente pelo meio físico.
+
+**[Video](https://drive.google.com/drive/u/0/folders/1BBzsHNK57gVtxoWd461-V1apOvN5aRZf)**
