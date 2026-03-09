@@ -346,4 +346,4 @@ Enquanto em uma rede com hub todos os dispositivos compartilham o mesmo domínio
 
 Assim, embora os dispositivos ainda estejam interligados fisicamente pelo mesmo equipamento, o switch organiza o tráfego de forma mais eficiente, evitando que todas as transmissões sejam propagadas indiscriminadamente pelo meio físico.
 
-**[Video](https://drive.google.com/drive/u/0/folders/1BBzsHNK57gVtxoWd461-V1apOvN5aRZf)**
+**[Video](https://drive.google.com/file/d/1hRLfgJVO2T384L17OGuOk1x-OJpssGum/view?usp=sharing)**
